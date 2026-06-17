@@ -1,6 +1,7 @@
 <script>
 	import ExampleStory from './stories/ExampleStory.svelte';
 	import LuizaStoryCard from './stories/LuizaStoryCard.svelte';
+	import HoldenStoryCard from './stories/HoldenStoryCard.svelte';
 
 	// Copy _StoryCardTemplate.svelte into stories/, rename it, then import here:
 	// import YourNameStory from './stories/YourNameStory.svelte';
@@ -14,6 +15,7 @@
 		</header>
 
 		<LuizaStoryCard />
+		<HoldenStoryCard />
 		<!-- <YourNameStory /> -->
 	</div>
 </main>
