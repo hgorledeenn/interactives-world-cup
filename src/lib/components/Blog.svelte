@@ -16,7 +16,6 @@
 
 		<LuizaStoryCard />
 		<HoldenStoryCard />
-		<HoldenStoryCard/>
 		<!-- <YourNameStory /> -->
 	</div>
 </main>
