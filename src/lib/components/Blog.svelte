@@ -9,11 +9,11 @@
 <main class="blog">
 	<div class="blog-column">
 		<header class="blog-header">
-			<h1 class="blog-title">Blog title here</h1>
-			<p class="blog-date">Published June 10, 2026</p>
+			<h1 class="blog-title">World Cup News Today</h1>
+			<p class="blog-date">Published June 17, 2026</p>
 		</header>
 
-		<HoldenStoryCard />
+		<HoldenStoryCard/>
 		<!-- <YourNameStory /> -->
 	</div>
 </main>
