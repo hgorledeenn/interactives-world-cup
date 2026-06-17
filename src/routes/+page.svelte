@@ -1,5 +1,5 @@
 <script>
-	import Blog from '../lib/components/Blog.svelte';
+    import Blog from "$lib/components/Blog.svelte";
 </script>
 
-<Blog />
+<Blog/>
